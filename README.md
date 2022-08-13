@@ -39,7 +39,6 @@ The following files are part of the app developed in this project must be in the
 portfolio_builder_get_data.py
 portfolio_builder_get_year_data.py
 portfolio_builder_calc_ranking.py
-portfolio_builder_calc_performance.py
 FMP_Requests.py
 stocks_data_processed.db
 
